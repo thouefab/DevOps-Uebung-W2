@@ -4,7 +4,3 @@
 Hallo Mato
 Hallo Ali
 Hallo Fabian
-
-
-
-Branch für Fabian Thouet erstellt
